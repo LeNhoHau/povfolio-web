@@ -73,6 +73,30 @@
     line-height: 1.5;
 }
 
+.education{
+    width:310px; 
+    height:550px; 
+    background-color: white; 
+    text-align: center;
+    align-items: center;
+    padding-left: 40px;
+    padding-top: 70px;
+}
+
+.month{
+    margin-left: 20px; 
+    background-color:  orange;
+    color: white; 
+    font-size: smaller;
+}
+
+.explain{
+    padding-top: 25px; 
+    display: inline-block; 
+    opacity: 0.5; 
+    width: 520px;
+}
+
 .right-nav a {
     width: 35px;
     height: 35px;
@@ -83,8 +107,8 @@
     border-radius: 50%;
     box-shadow: 0 0 6px rgba(0, 0, 0, 0.1);
     color: #333;
-    text-decoration: none;
-    font-weight: bold;
+    margin-left: 40px;
+    margin-bottom: 50px;
 }
 
 .right-nav a:hover {
